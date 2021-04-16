@@ -30,5 +30,4 @@ Check the versions of NODE available with $ nvm ls
 Run: $ nvm ls-remote
 
 To install the latest version, use the nvm command with the specific Node.js version:
-
 $ nvm install [version.number]
